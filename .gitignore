@@ -1,0 +1,7 @@
+*.mp3
+__pycache__/*
+.env
+*.png
+*.jpeg
+*.webp
+*.xml
